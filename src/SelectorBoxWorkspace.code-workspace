@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../SPADS_VS"
+		},
+		{
+			"name": "SelectorBox",
+			"path": ".."
+		},
+		{
+			"name": "230810-124201-nodemcu-32s",
+			"path": "../../230810-124201-nodemcu-32s"
+		},
+		{
+			"name": "NEMA17_Test",
+			"path": "../../NEMA17_Test"
+		},
+		{
+			"name": "Hall Effect Sensor",
+			"path": "../../Hall Effect Sensor"
+		},
+		{
+			"name": "LabRats Start Button",
+			"path": "../../LabRats Start Button"
+		}
+	],
+	"settings": {}
+}
